@@ -1,0 +1,32 @@
+===============================================
+Team Memeber :
+    Ahmed safwat baker hassen .
+    Reham Salah Mohamed Abdullah Ahmed .
+
+Tasks:
+     Ahmed safwat
+        -1) main.Sh
+        -2) update.Sh
+        -3) search.Sh
+     Reham Salah
+        -1) remove.Sh
+        -2) add.sh
+
+=======================================
+To run th project must do 
+    1) change permision for all file in the project 
+            run the comd chmod +777 -R bashProject
+    2) must have the bash 
+==========================================
+Scenario of the project
+    
+    1) run main.sh 
+        ./main.sh
+    2) wiil open menu chose the one of them add or remove or edit or search or exit
+    3) when chose hte add will open add.sh the will ask to enter the name must be charaters only
+    4) then must enter vaild email the enter valid number and unique 
+    5) then must chose add or cancle which enter
+    6) can go to home 
+    7) when chose search should enter the phone to search or email or name can chose one 
+    8) if found will apperance else display not found 
+    9) can delete using phone only and update using phone only
